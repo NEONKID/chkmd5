@@ -1,0 +1,6 @@
+Debug/
+chkmd5/Debug
+*.tlog
+*.db
+*.vcxproj
+*.vcxproj.filters
